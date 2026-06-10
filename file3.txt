@@ -1,0 +1,6 @@
+This is just another file for testing purposes.
+
+
+
+
+This is only to be ahead of the master branch. Then I want to create a pull request and add this "new feature" to master.
